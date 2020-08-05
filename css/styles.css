@@ -1,13 +1,4 @@
-h2.intro {
+.intro {
   color: teal;
-  font-style: italic;
-}
-
-p.intro {
-  color: powderblue;
-  font-size: 40px;
-}
-
-img.intro {
-  width:200px; height: 200px;
+  font-style: italic;  
 }
